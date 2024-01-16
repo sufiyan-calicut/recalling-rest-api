@@ -1,0 +1,27 @@
+# Operating system-specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.swp
+
+# Logs
+log/*
+npm-debug.log*
+yarn-debug.log*
+
+# Build artifacts
+build/
+dist/
+node_modules/
+
+# Editor configuration files
+.idea/
+.vscode/
+.editorconfig
+
+# Project-specific patterns (add your own here)
+# Example:
+# config/secrets.json
+# src/generated/
